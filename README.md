@@ -10,7 +10,8 @@ A frontend practice project built using **HTML5** and **CSS3**, focused on under
 
 ## 📸 Preview
 
-[Uploading Screenshot 2026-05-31 at 19-30-45 PracticeSession-1.png…]
+<img width="1920" height="1529" alt="Screenshot 2026-05-31 at 19-30-45 PracticeSession-1" src="https://github.com/user-attachments/assets/dda985ea-a719-4b29-9837-28d6b456f415" />
+
 
 
 
